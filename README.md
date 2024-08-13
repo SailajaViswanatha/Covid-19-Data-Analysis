@@ -1,4 +1,5 @@
 # Covid-19 Data Analysis
+Project Summary:
 In this project the goal is, to analyze Country wise 
 Total Covid cases, Total Deaths, total active cases as well as Total
 recovered cases and total death rate, so that the countries with high 
