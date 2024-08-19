@@ -11,3 +11,5 @@ functions are used to calculate total death rate and new death rate
 A report is created to analyze country wise high active
 cases, recovered cases and deaths so that more facilities can be 
 provided to those areas
+![Covid 19 Data Analysis](https://github.com/user-attachments/assets/c26167d7-c06b-45c4-967f-6c1658ceb6bc)
+
